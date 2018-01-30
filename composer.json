@@ -1,0 +1,6 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "metaclassing/utility": "dev-master"
+    }
+}
